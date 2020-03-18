@@ -1,0 +1,20 @@
+h1 {
+
+}
+
+.form {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.employment {
+  background-color: gray;
+}
+
+.contact {
+  font-size: smaller;
+}
+
+body {
+  font-family: monospace;
+}
